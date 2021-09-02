@@ -8,7 +8,7 @@ $arr =  array(
         "Title" => "Victorian Caronavirus Statistics",
         "All infomation from" => " https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data",
         "Credits" =>"Made by Jack Sam, @wacko1805",
-        "Github" => "https://github.com/eacko1805/vic-covid-stats"
+        "Github" => "https://github.com/wacko1805/Victorian-COVID-stats"
         
 ),
     "active_cases" => array(
